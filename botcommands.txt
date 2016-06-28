@@ -1,0 +1,3 @@
+!addcommand (COMMAND) // (RESPONSE): Creates a new user command.
+!addresponse (COMMAND) // (RESPONSE): Adds a new random response to an existing command.
+!listresponses (COMMAND): Lists all random responses for a specified user command.

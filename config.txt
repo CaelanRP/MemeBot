@@ -1,0 +1,1 @@
+{"commands": [{"name": "!hello", "responses": ["Hi!"]}, {"name": "!atom", "responses": [":atom:", ":fancyatom:", ":air::plane: if he hit those he would have exPLODED"]}]}

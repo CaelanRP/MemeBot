@@ -1,1 +1,0 @@
-{"9/11": [":air: :plane: :office:"], "!meme": [":calen:", ":dong:", ":atom:"], "!pizza": [":pizza:"], "!atom": [":atom:", ":fancyatom:"], "you sly dog!": [":syndrome:", "You caught me monologuing!"], "(COMMAND)": ["(RESPONSE)```"]}
